@@ -1,0 +1,15 @@
+# Core ML
+tensorflow==2.13.0
+
+# Computer Vision
+opencv-python==4.7.0.72
+
+# Data processing
+numpy==1.24.3
+scikit-learn==1.2.2
+
+# Visualization
+matplotlib==3.7.1
+
+# Utilities
+pillow==9.5.0  # может понадобиться для дополнительных операций с изображениями
